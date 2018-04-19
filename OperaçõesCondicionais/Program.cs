@@ -21,7 +21,7 @@ namespace OperaçõesCondicionais
             obs.: Clear->Limpar
             */
             Console.Clear();
-            Console.WriteLine("Escolha uma das operações abaixo:")
+            Console.WriteLine("Escolha uma das operações abaixo:");
             /*
             Para a exibição das opções de operação, vamos usar o comando Console.WriteLine e, nele usaremos um comando de quebra de linha \n(contra-barra n(new line). Assim, as opções ficarão uma abaixo da outra
             */
@@ -33,6 +33,29 @@ namespace OperaçõesCondicionais
 
             Console.WriteLine("Digite outro número");
             n2 = double.Parse(Console.ReadLine());
+
+            if(operacao==1)
+            {
+                Console.WriteLine("O resultado da soma é: "+(n1+n2));
+            }
+            else if(operacao==2)
+            {
+                Console.WriteLine("O resultado da subtração é: "+(n1-n2));
+            }
+            else if(operacao==3)
+            {
+                Console.WriteLine("O resultado da multiplicação é: "+(n1*n2));
+            }
+            else if(operacao==4)
+            {
+                Console.WriteLine("O resultado da divisão é: "+(n1/n2));
+            }
+            else
+            {
+                Console.WriteLine("Operação inválida!");
+            }
+
+
 
 
 

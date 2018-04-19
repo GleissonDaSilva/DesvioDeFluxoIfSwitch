@@ -1,0 +1,10 @@
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\obj\Debug\netcoreapp2.0\OperaçõesCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\obj\Debug\netcoreapp2.0\OperaçõesCondicionais.AssemblyInfoInputs.cache
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\obj\Debug\netcoreapp2.0\OperaçõesCondicionais.AssemblyInfo.cs
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\bin\Debug\netcoreapp2.0\OperaçõesCondicionais.deps.json
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\bin\Debug\netcoreapp2.0\OperaçõesCondicionais.runtimeconfig.json
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\bin\Debug\netcoreapp2.0\OperaçõesCondicionais.runtimeconfig.dev.json
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\bin\Debug\netcoreapp2.0\OperaçõesCondicionais.dll
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\bin\Debug\netcoreapp2.0\OperaçõesCondicionais.pdb
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\obj\Debug\netcoreapp2.0\OperaçõesCondicionais.dll
+C:\Users\gleisson.silva\Lógica\DesvioDeFluxo\OperaçõesCondicionais\obj\Debug\netcoreapp2.0\OperaçõesCondicionais.pdb
